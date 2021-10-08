@@ -4,13 +4,7 @@ You can use the [editor on GitHub](https://github.com/alegomesilva/alegomesilva.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<!DOCTYPE html>
-<html lang="pt-br">
 
-    <head>
-      <meta charset="UTF-8">
-      <title>Document</title>
-    </head>
     
   <body>
     <meta property = "og: locale" content = "pt-br"/>
@@ -23,4 +17,3 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-</html>
