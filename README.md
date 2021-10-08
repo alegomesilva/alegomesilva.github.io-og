@@ -1,13 +1,6 @@
 # Faroesta Caboclo
 
-<!DOCTYPE html>
-<html lang="pt-br">
 
-    <head>
-      <meta charset="UTF-8">
-      <title>Document</title>
-    </head>
-    
   <body>
     <meta property = "og: locale" content = "pt-br"/>
     <meta property = "og: type" content = "video.movie"/>
@@ -19,4 +12,3 @@
 
 
 
-</html>
